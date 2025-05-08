@@ -1,7 +1,7 @@
 # 👨‍💻 Développeur Backend
 
 ## 🛠️ Technologies principales
-`PHP` `Node.js` `MySQL` `MongoDB`
+`PHP` `Node.js` `MySQL` `MongoDB`, `Symfony`
 
 ## 📝 À propos
 Développeur backend passionné avec une expertise en PHP et Node.js. Spécialisé dans la création d'APIs robustes, l'optimisation des bases de données et le développement de solutions backend évolutives. Expérience dans la conception et l'implémentation d'architectures microservices.
@@ -16,14 +16,12 @@ Développeur backend passionné avec une expertise en PHP et Node.js. Spécialis
 
 ### Frameworks & Bibliothèques
 - Laravel
-- Express.js
 - Symfony
-- NestJS
+- AdonisJS
+- NextJS
 
 ### Bases de données
-- MySQL
 - PostgreSQL
-- MongoDB
 - Redis
 
 ### DevOps
@@ -53,11 +51,8 @@ Développeur backend passionné avec une expertise en PHP et Node.js. Spécialis
 > Architecture de microservices pour gérer les notifications par email, SMS et push.
 
 ## 📫 Contact
-- GitHub: [github.com/votre-username](https://github.com/votre-username)
-- LinkedIn: [linkedin.com/in/votre-profil](https://linkedin.com/in/votre-profil)
-- Email: votre-email@example.com
-- Discord: votre-username#0000
+- GitHub: [github.com/votre-username](https://github.com/Joaquine-dev)
+- LinkedIn: [linkedin.com/in/votre-profil](https://linkedin.com/in/Joaquine-dev)
+- Email: contact@jeff-dev.fr
+- Discord: joaquine
 \`\`\`
-
-Ce format Markdown est parfaitement compatible avec Discord. Vous pouvez copier-coller ce contenu directement dans Discord, et le formatage (titres, listes, etc.) sera correctement affiché. N'oubliez pas de personnaliser les informations avec vos propres détails.
-
