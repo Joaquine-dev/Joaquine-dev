@@ -1,58 +1,51 @@
-# 👨‍💻 Développeur Backend
+# 👨‍💻 JoaQuine — Développeur Backend
 
-## 🛠️ Technologies principales
-`PHP` `Node.js` `MySQL` `MongoDB`, `Symfony`
+Développeur backend passionné, je conçois des APIs robustes, performantes et évolutives. Spécialisé en PHP et Node.js, je maîtrise l'architecture microservices, la gestion avancée de bases de données, et les outils DevOps pour le déploiement à l'échelle.
 
-## 📝 À propos
-Développeur backend passionné avec une expertise en PHP et Node.js. Spécialisé dans la création d'APIs robustes, l'optimisation des bases de données et le développement de solutions backend évolutives. Expérience dans la conception et l'implémentation d'architectures microservices.
+---
 
-## 💼 Compétences techniques
+## 🧰 Stack technique
 
-### Langages
-- PHP
-- JavaScript/Node.js
-- SQL
-- TypeScript
+### 🔤 Langages
+`PHP` · `JavaScript / Node.js` · `TypeScript` · `SQL`
 
-### Frameworks & Bibliothèques
-- Laravel
-- Symfony
-- AdonisJS
-- NextJS
+### 🧱 Frameworks & Librairies
+`Symfony` · `Laravel` · `AdonisJS` · `Next.js`
 
-### Bases de données
-- PostgreSQL
-- Redis
+### 🗄️ Bases de données
+`PostgreSQL` · `MySQL` · `MongoDB` · `Redis`
 
-### DevOps
-- Docker
-- CI/CD
-- AWS
-- Git
+### 🚀 DevOps & Outils
+`Docker` · `Git` · `CI/CD` · `AWS`
 
-### Autres
-- REST API
-- GraphQL
-- WebSockets
-- Microservices
+### 🌐 Protocoles & Architectures
+`REST API` · `GraphQL` · `WebSockets` · `Microservices`
 
-## 🚀 Projets
+---
 
-### API de Gestion de Contenu
-*Node.js, Express, MongoDB, JWT*
-> Système backend pour une plateforme de gestion de contenu avec authentification JWT, gestion des rôles et permissions.
+## 🛠️ Projets récents
 
-### Système de Paiement
-*PHP, Laravel, MySQL, Stripe API*
-> Intégration de passerelles de paiement multiples avec gestion des transactions et reporting.
+### 📦 API de Gestion de Contenu
+**Stack :** Node.js, Express, MongoDB, JWT  
+→ Développement d'une API sécurisée avec authentification JWT, gestion des rôles, et permissions administrables.
 
-### Microservices de Notification
-*Node.js, RabbitMQ, Docker, Redis*
-> Architecture de microservices pour gérer les notifications par email, SMS et push.
+### 💳 Système de Paiement
+**Stack :** PHP, Laravel, MySQL, Stripe API  
+→ Intégration de multiples passerelles de paiement, suivi des transactions, et génération de rapports dynamiques.
 
-## 📫 Contact
-- GitHub: [github.com/votre-username](https://github.com/Joaquine-dev)
-- LinkedIn: [linkedin.com/in/votre-profil](https://linkedin.com/in/Joaquine-dev)
-- Email: contact@jeff-dev.fr
-- Discord: joaquine
-\`\`\`
+### 📬 Microservices de Notification
+**Stack :** Node.js, RabbitMQ, Docker, Redis  
+→ Architecture orientée microservices pour la gestion des notifications email, SMS et push.
+
+---
+
+## 🤝 Me contacter
+
+- 🔗 GitHub : [github.com/Joaquine-dev](https://github.com/Joaquine-dev)  
+- 💼 LinkedIn : [linkedin.com/in/Joaquine-dev](https://linkedin.com/in/Joaquine-dev)  
+- 📧 Email : [contact@jeff-dev.fr](mailto:contact@jeff-dev.fr)  
+- 🎮 Discord : `joaquine`
+
+---
+
+> *"Le code n’est pas juste ce que j’écris, c’est ce que je pense, conçois et fais évoluer."*
