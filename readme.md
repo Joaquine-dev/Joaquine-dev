@@ -6,20 +6,28 @@ Développeur backend passionné, je conçois des APIs robustes, performantes et 
 
 ## 🧰 Stack technique
 
-### 🔤 Langages
-`PHP` · `JavaScript / Node.js` · `TypeScript` · `SQL`
+### 🔤 Langages  
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>  
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>  
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>  
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-### 🧱 Frameworks & Librairies
-`Symfony` · `Laravel` · `AdonisJS` · `Next.js`
+### 🧱 Frameworks & Librairies  
+<img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>  
+<img src="https://img.shields.io/badge/AdonisJS-220052?style=for-the-badge&logo=adonisjs&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
 
-### 🗄️ Bases de données
-`PostgreSQL` · `MySQL` · `MongoDB` · `Redis`
+### 🗄️ Bases de données  
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>  
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 
-### 🚀 DevOps & Outils
-`Docker` · `Git` · `CI/CD` · `AWS`
-
-### 🌐 Protocoles & Architectures
-`REST API` · `GraphQL` · `WebSockets` · `Microservices`
+### 🚀 DevOps & Outils  
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>  
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>  
+<img src="https://img.shields.io/badge/CI/CD-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white"/>
 
 ---
 
